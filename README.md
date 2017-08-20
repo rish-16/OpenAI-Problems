@@ -5,4 +5,4 @@ OpenAI Reinforcement Learning and Algorithms Playground
 pip install gym, tensorflow, numpy, tflearn, collections, statistics, random, universe
 
 # Usage
-run code `main.py` using python3 and upwards only
+run code `main.py` for all problems available using python3 and upwards only
