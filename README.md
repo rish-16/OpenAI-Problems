@@ -2,7 +2,11 @@
 OpenAI Reinforcement Learning and Algorithms Playground
 
 # Dependencies
-pip install gym, tensorflow, numpy, tflearn, collections, statistics, random, universe
+Using `pip` to install packages and modules:
+
+`pip install gym, tensorflow, numpy, tflearn, collections, statistics, random, universe`
+
+for more information on `pip` visit the [pip website](https://pypi.python.org/pypi/pip).
 
 # Usage
 run code `main.py` for all problems available using python3 and upwards only
